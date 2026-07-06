@@ -3,7 +3,7 @@
 Welcome to my **100 Days of Machine Learning Challenge** repository!  
 This repository contains my daily Machine Learning practice, mini projects, notebooks, and output screenshots.
 
-The goal of this challenge is to strengthen my:
+The goal of this challenge is to strengthen my :-
 - Machine Learning concepts
 - Python implementation skills
 - Data preprocessing techniques
