@@ -22,10 +22,10 @@ The goal of this challenge is to strengthen:
 
 ## Day 1 - 01 May 2026
 ### 🔹 Jupyter Notebook
-[Open Notebook](2026-05-01_ML_001.ipynb)
+[Open Notebook](Jupyter_Notebook/2026-05-01_ML_001.ipynb)
 
 ### 🔹 Output Screenshot
-![ML Output](2026-05-01_ML_001.png)
+![ML Output](ML_Output/2026-05-01_ML_001.png)
 
 ---
 
