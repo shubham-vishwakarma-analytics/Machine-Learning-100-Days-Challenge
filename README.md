@@ -25,7 +25,7 @@ The goal of this challenge is to strengthen:
 [Open Notebook](Jupyter_Notebook/2026-05-01_ML_001.ipynb)
 
 ### 🔹 Output Screenshot
-![ML Output](ML_Output/2026-05-01_ML_001.png)
+![ML Output](ML_Screenshot/2026-05-01_ML_001.png)
 
 ---
 
